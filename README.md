@@ -101,4 +101,4 @@ All files Copyright (c) 2016-2017 Thomas E. Hunger & Jonathan M. Lange, except:
 * src/GraphQL/Internal/Syntax/Encoder.hs
 * src/GraphQL/Internal/Syntax/Parser.hs
 
-for which see LICENSE.BSD3 in this repository.
+for which see LICENSE.BSD3 in this repository..
