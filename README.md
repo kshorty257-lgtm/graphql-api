@@ -1,4 +1,4 @@
-# graphql-api
+.# graphql-api
 
 [![CircleCI](https://circleci.com/gh/jml/graphql-api.svg?style=shield)](https://circleci.com/gh/jml/graphql-api)
 [![Documentation Status](https://readthedocs.org/projects/haskell-graphql-api/badge/?version=latest)](http://haskell-graphql-api.readthedocs.io/en/latest/?badge=latest)
